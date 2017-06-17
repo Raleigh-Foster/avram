@@ -1,0 +1,9 @@
+package main
+
+
+modules =
+ Main 
+
+executable = main
+
+main = Main
